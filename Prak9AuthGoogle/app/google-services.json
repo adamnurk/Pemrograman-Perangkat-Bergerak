@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162445611903",
+    "project_id": "auth-b8282",
+    "storage_bucket": "auth-b8282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162445611903:android:62059db600c6e9dc19004a",
+        "android_client_info": {
+          "package_name": "com.adam_19104078.prak9authgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162445611903-cq06u58v9g7rrpom27n8kddj51sfjihg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBICK7IQgBoftd8qDzbSPoYnxs_I8hjp6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162445611903-cq06u58v9g7rrpom27n8kddj51sfjihg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
